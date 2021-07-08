@@ -4,4 +4,4 @@
 
 ## Screenshot
 
-![Project](./design/counter-javascript-project.png)
+![](./design/counter-javascript-project.png)
