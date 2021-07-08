@@ -14,8 +14,7 @@ body {
     top: 50%;
     left: 50%;
     transform: translate(-50%, -50%);
-    background-image: url("./images/bg-2.jpg");
-    background-repeat: no-repeat;
+    background: url("./images/bg-2.jpg");
     background-size: cover;
     width: 100%;
     height: auto;
@@ -25,10 +24,10 @@ body {
     justify-content: center;
     align-items: center;
     flex-direction: column;
-    background-image: url("./images/bg-2.jpg");
+    background: url("./images/bg-2.jpg");
     background-repeat: no-repeat;
     background-size: cover;
-    width: 60%;
+    width: 90%;
     height: auto;
     padding: 3rem;
     border: 2px solid #fff;
@@ -91,9 +90,8 @@ a{
     align-items: center;
     flex-direction: column;
     background-image: url("./images/bg-2.jpg");
-    background-repeat: no-repeat;
     background-size: cover;
-    width: 40%;
+    width: 50%;
     height: auto;
     padding: 3rem;
     border: 2px solid #fff;
