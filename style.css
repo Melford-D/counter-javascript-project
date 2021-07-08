@@ -18,7 +18,7 @@ body {
     width: 100%;
     height: auto;
 }
-.container-items {
+.container {
     display: flex;
     justify-content: center;
     align-items: center;
@@ -79,7 +79,7 @@ a{
     text-decoration: none;
 }
 @media (min-width: 728px){
-.container-items {
+.container {
     display: flex;
     justify-content: center;
     align-items: center;
